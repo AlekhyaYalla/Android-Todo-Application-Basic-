@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TO-DOs</string>
+    <string name="done_todo">Done</string>
+    <string name="all_todos">All</string>
+    <string name="not_done_todos">Not Done</string>
+    <string name="add_button">ADD</string>
+    <string name="done">Done</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete</string>
+    <string name="title_heading">Title:</string>
+    <string name="description_heading">Description:</string>
+    <string name="capture_image_heading">Capture Image:</string>
+</resources>
